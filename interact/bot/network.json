@@ -1,0 +1,16 @@
+{
+    "mainnet": {
+        "chainID": "phoenix-1",
+        "URL": "https://phoenix-lcd.terra.dev",
+        "gas_url": "https://phoenix-fcd.terra.dev/v1/txs/gas_prices"
+    },
+    "testnet": {
+        "chainID": "pisco-1",
+        "URL": "https://pisco-lcd.terra.dev",
+        "gas_url": "https://pisco-fcd.terra.dev/v1/txs/gas_prices"
+    },
+    "localterra": {
+        "chainID": "localterra",
+        "URL": "http://localhost:3060"
+    }
+}
